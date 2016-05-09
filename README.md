@@ -7,7 +7,7 @@ rpi-update
 raspi-config
 
 
-apt-get install pishutdown
+apt-get install pishutdown<BR>
 apt-get install midori
 apt-get install geany geany-plugins
 apt-get install jstest-gtk
