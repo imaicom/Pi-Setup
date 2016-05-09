@@ -16,7 +16,7 @@ apt-get install xfonts-takao xfonts-kaname ttf-kochi-gothic xfonts-intl-japanese
 apt-get install jfbterm
 
 vi /boot/config.txt
-dtparam=act_led_trigger=heartbeat
-# ?? monitor
+cut '#' disable_overscan=1
+append 'dtparam=act_led_trigger=heartbeat'
 
-apt-cache search ???
+apt-cache search <file name>
