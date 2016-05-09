@@ -1,12 +1,12 @@
 # Raspberry-Pi-Setup
 
-apt-get update
-apt-get upgrade
-rpi-update
-
-raspi-config
-
-
+apt-get update<BR>
+apt-get upgrade<BR>
+rpi-update<BR>
+<BR>
+raspi-config<BR>
+<BR>
+<BR>
 apt-get install pishutdown<BR>
 apt-get install midori<BR>
 apt-get install geany geany-plugins<BR>
