@@ -12,6 +12,7 @@ rpi-update<BR>
 raspi-config<BR>
 <BR>
 <BR>
+apt-get install iceweasel iceweasel-l10n-ja<BR>
 apt-get install pishutdown<BR>
 apt-get install midori<BR>
 apt-get install geany geany-plugins<BR>
