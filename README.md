@@ -20,7 +20,7 @@ apt-get install midori<BR>
 apt-get install geany geany-plugins<BR>
 apt-get install jstest-gtk<BR>
 apt-get install ibus-anthy<BR>
-apt-get install xfonts-takao xfonts-kaname ttf-kochi-gothic xfonts-intl-japanese<BR>
+apt-get install fonts-takao xfonts-kaname ttf-kochi-gothic xfonts-intl-japanese<BR>
 apt-get install jfbterm<BR>
 <BR>
 vi /boot/config.txt<BR>
