@@ -1,9 +1,10 @@
 # Raspberry-Pi-Setup
 
 vi /etc/apt/sources.list<BR>
-append 'deb http://ftp.jp.debian.org/debian/ squeeze main non-free contrib'<BR>
-append 'deb http://security.debian.org/ squeeze/updates main contrib non-free'<BR>
-append 'deb http://ftp.jp.debian.org/debian/ squeeze-updates main contrib non-free'<BR>
+append 3 lines
+deb http://ftp.jp.debian.org/debian/ squeeze main non-free contrib<BR>
+deb http://security.debian.org/ squeeze/updates main contrib non-free<BR>
+deb http://ftp.jp.debian.org/debian/ squeeze-updates main contrib non-free<BR>
 <BR>
 apt-get update<BR>
 apt-get upgrade<BR>
