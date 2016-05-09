@@ -12,6 +12,8 @@ rpi-update<BR>
 raspi-config<BR>
 <BR>
 <BR>
+apt-get install libreoffice-l10n-ja<BR>
+apt-get install libreoffice-help-ja<BR>
 apt-get install iceweasel iceweasel-l10n-ja<BR>
 apt-get install pishutdown<BR>
 apt-get install midori<BR>
