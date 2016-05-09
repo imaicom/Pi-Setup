@@ -20,3 +20,4 @@ cut '#' disable_overscan=1<BR>
 append 'dtparam=act_led_trigger=heartbeat'<BR>
 <BR>
 apt-cache search 'file name'<BR>
+
