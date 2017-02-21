@@ -13,6 +13,7 @@ rpi-update<BR>
 raspi-config<BR>
 <BR>
 <BR>
+apt-get install numlockx<BR>
 apt-get install gparted<BR>
 apt-get install libreoffice-l10n-ja libreoffice-help-ja<BR>
 apt-get install iceweasel iceweasel-l10n-ja<BR>
