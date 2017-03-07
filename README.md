@@ -31,5 +31,5 @@ append 'dtparam=act_led_trigger=heartbeat'<BR>
 append 'max_usb_current=1'<BR>
 <BR>
 apt-cache search 'file name'<BR>
-
-
+<BR>
+(CPU Temp)vcgencmd measure_temp<BR>
