@@ -24,6 +24,7 @@ apt-get install jstest-gtk<BR>
 apt-get install ibus-anthy<BR>
 apt-get install fonts-takao xfonts-kaname ttf-kochi-gothic xfonts-intl-japanese<BR>
 apt-get install jfbterm<BR>
+apt-get install ksnapshot<BR>
 <BR>
 vi /boot/config.txt<BR>
 cut '#' disable_overscan=1<BR>
