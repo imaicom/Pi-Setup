@@ -34,5 +34,6 @@ append 'max_usb_current=1'<BR>
 apt-cache search 'file name'<BR>
 <BR>
 (CPU Temp)vcgencmd measure_temp<BR>
-
+<BR>
+(Geany setting)<BR>
 <img src="geany_compile_setting.png" width="80%" height="80%" >
