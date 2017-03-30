@@ -2,9 +2,12 @@
 
 vi /etc/apt/sources.list<BR>
 append 3 lines<BR>
-deb http://ftp.jp.debian.org/debian/ squeeze main non-free contrib<BR>
-deb http://security.debian.org/ squeeze/updates main contrib non-free<BR>
-deb http://ftp.jp.debian.org/debian/ squeeze-updates main contrib non-free<BR>
+deb http://ftp.jp.debian.org/debian/ squeeze main non-free contrib  
+deb http://security.debian.org/ squeeze/updates main contrib non-free  
+deb http://ftp.jp.debian.org/debian/ squeeze-updates main contrib non-free  
+deb http://ftp.jaist.ac.jp/raspbian jessie main contrib non-free
+deb http://ftp.yz.yamagata-u.ac.jp/pub/linux/raspbian/raspbian/ jessie main contrib non-free  
+  
 <BR>
 apt-get update<BR>
 apt-get upgrade<BR>
