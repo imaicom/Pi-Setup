@@ -1,7 +1,7 @@
 # Raspberry-Pi-Setup
 
 vi /etc/apt/sources.list<BR>
-append 3 lines<BR>
+append 5 lines<BR>
 deb http://ftp.jp.debian.org/debian/ squeeze main non-free contrib  
 deb http://security.debian.org/ squeeze/updates main contrib non-free  
 deb http://ftp.jp.debian.org/debian/ squeeze-updates main contrib non-free  
@@ -40,7 +40,7 @@ apt-cache search 'file name'<BR>
 (CPU Temp)vcgencmd measure_temp<BR>
 <BR>
 (Geany setting)<BR>
-<img src="geany_compile_setting.png" width="80%" height="80%" >  
+<img src="geany_compile_setting.png" width="80%" height="80%" ><BR>
 ```
 cc -c "%f" -lwiringPi -lm
 cc -o "%e" "%f" -lwiringPi -lm
