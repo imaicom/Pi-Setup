@@ -41,3 +41,8 @@ apt-cache search 'file name'<BR>
 <BR>
 (Geany setting)<BR>
 <img src="geany_compile_setting.png" width="80%" height="80%" >
+```
+cc -c "%f" -lwiringPi -lm
+cc -o "%e" "%f" -lwiringPi -lm
+"sudo ./%e"
+```
