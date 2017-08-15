@@ -49,4 +49,4 @@ cc -o "%e" "%f" -lwiringPi -lm<BR>
 vi ~/.netrc<BR> 
 machine github.com<BR>
 login github's-username<BR>
-password github's-username<BR>  
+password github's-password<BR>  
