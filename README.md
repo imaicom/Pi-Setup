@@ -52,3 +52,5 @@ vi   ~/.netrc<BR>
 machine github.com<BR>
 login github's-username<BR>
 password github's-password<BR>  
+<BR>  
+git config --global core.editor vi<BR>  
