@@ -45,8 +45,9 @@ apt-cache search 'file name'<BR>
 cc -c "%f" -lwiringPi -lm<BR>
 cc -o "%e" "%f" -lwiringPi -lm<BR>  
 "sudo ./%e"<BR>
-
-vi ~/.netrc
-machine github.com
-login github's-username
-password github's-username
+  
+vi ~/.netrc  
+machine github.com  
+login github's-username  
+password github's-username  
+  
