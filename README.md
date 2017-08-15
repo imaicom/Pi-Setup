@@ -53,4 +53,5 @@ machine github.com<BR>
 login github's-username<BR>
 password github's-password<BR>  
 <BR>  
+(GitHub setting - Editor to vi)<BR>
 git config --global core.editor vi<BR>  
