@@ -46,7 +46,9 @@ cc -c "%f" -lwiringPi -lm<BR>
 cc -o "%e" "%f" -lwiringPi -lm<BR>  
 "sudo ./%e"<BR>
 <BR>
-vi ~/.netrc<BR> 
+(GitHub setting - User name and password at git push Avoid entering each time)<BR>
+more ~/.netrc<BR> 
+vi   ~/.netrc<BR> 
 machine github.com<BR>
 login github's-username<BR>
 password github's-password<BR>  
