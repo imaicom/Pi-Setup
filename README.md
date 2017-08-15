@@ -46,7 +46,7 @@ cc -c "%f" -lwiringPi -lm<BR>
 cc -o "%e" "%f" -lwiringPi -lm<BR>  
 "sudo ./%e"<BR>
 <BR>
-vi ~/.netrc  
-machine github.com  
-login github's-username  
-password github's-username  
+vi ~/.netrc<BR> 
+machine github.com<BR>
+login github's-username<BR>
+password github's-username<BR>  
